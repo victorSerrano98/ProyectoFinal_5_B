@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/opcionEditar"
+        android:title="Editar">
+    </item>
+    <item
+        android:id="@+id/opcionTransaccion"
+        android:title="Transaccion">
+    </item>
+    <item
+        android:id="@+id/opcionTransferencia"
+        android:title="Transferencia">
+    </item>
+
+    <item
+        android:id="@+id/opcionPresentarT"
+        android:title="Historial de Transacciones">
+    </item>
+
+</menu>
